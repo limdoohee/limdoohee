@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 Now, running towards my dream as a front-end developer.<br/>
 <br/>
 <a href="url" > <h3>:fire: ongoing-project </h3> </a>
-<a href="https://github.com/limdoohee/web-diary"><img src="https://img.shields.io/badge/web diary-94ffab?style=flat&logo=Google Calendar&logoColor=white"/></a>
+<a href="https://web-diary-e3eb7.web.app"><img src="https://img.shields.io/badge/web diary demo-4bff71?style=flat&logo=Google Calendar&logoColor=white"/></a>
+<a href="https://github.com/limdoohee/web-diary"><img src="https://img.shields.io/badge/source-94ffab?style=flat&logo=Files&logoColor=white"/></a>
 <br/>
 <br/>
 <a href="url" > <h3>:dizzy: front-end Skills </h3> </a> 
