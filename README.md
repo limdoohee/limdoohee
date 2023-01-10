@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="url" > <h3>:sparkles: introduce </h3> </a> 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limdoohee@gmail.com)](mailto:limdoohee@gmail.com)
-<a href="https://limdoohee.tistory.com/)" ><img src="https://img.shields.io/badge/devblog-000000?style=flat&logo=Tistory&logoColor=white"/></a><br/>
+<a href="https://limdoohee.tistory.com/" ><img src="https://img.shields.io/badge/devblog-000000?style=flat&logo=Tistory&logoColor=white"/></a><br/>
   I'm dreaming of being full-stack developer.<br/>
 Now, running towards my dream as a front-end developer.<br/>
 <br/>
