@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   I'm dreaming of being full-stack developer.<br/>
 Now, running towards my dream as a front-end developer.<br/>
 <br/>
+<a href="url" > <h3>:fire: ongoing-project </h3> </a>
+<a href="https://github.com/limdoohee/web-diary"><img src="https://img.shields.io/badge/web diary-94ffab?style=flat&logo=Google Calendar&logoColor=white"/></a>
+<br/>
+<br/>
 <a href="url" > <h3>:dizzy: front-end Skills </h3> </a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
